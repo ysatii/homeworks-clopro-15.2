@@ -61,3 +61,6 @@ terraform apply -auto-approve
 ![Рисунок 10](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_10.jpg)  
 ![Рисунок 11](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_11.jpg)  
 ![Рисунок 12](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_12.jpg)  
+
+проверим ответы машин
+![Рисунок 13](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_13.jpg)  
