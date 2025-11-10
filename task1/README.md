@@ -1,3 +1,4 @@
+# решение 1 
 Структура файлов
 
 ── bucket.tf  
@@ -51,3 +52,12 @@ terraform apply -auto-approve
 
 сама картинка 
 ![Рисунок 5](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_5.jpg)  
+
+## решение 1.2 Создать группу ВМ в public подсети фиксированного размера с шаблоном LAMP и веб-страницей, содержащей ссылку на картинку из бакета
+![Рисунок 6](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_6.jpg)  
+![Рисунок 7](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_7.jpg)  
+![Рисунок 8](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_8.jpg)  
+![Рисунок 9](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_9.jpg)  
+![Рисунок 10](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_10.jpg)  
+![Рисунок 11](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_11.jpg)  
+![Рисунок 12](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_12.jpg)  
