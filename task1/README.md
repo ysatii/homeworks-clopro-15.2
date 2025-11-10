@@ -30,20 +30,24 @@ terraform apply -auto-approve
 ```
 
 ## решение 1.1 бакет Object Storage
-В результаты работы кода терраформ создан бакет **yc-15-2-bucket-2025-11**
-Корзина содержит файлы:
-Страница ошибки ─ error.html  
+В результаты работы кода терраформ создан бакет **yc-15-2-bucket-2025-11**  
+Корзина содержит файлы:  
+Страница ошибки ─ error.html   
 Главная страница ─ index.html  
 Файлс с картинкой ─ netology.png  
-Стринца бакета - https://yc-15-2-bucket-2025-11.website.yandexcloud.net/
-Ссылка на файл https://yc-15-2-bucket-2025-11.website.yandexcloud.net/netology.png
+Стринца бакета - https://yc-15-2-bucket-2025-11.website.yandexcloud.net/  
+Ссылка на файл https://yc-15-2-bucket-2025-11.website.yandexcloud.net/netology.png  
 
 ![Рисунок 1](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_1.jpg) 
 
+Настройки бакета
 ![Рисунок 2](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_2.jpg)  
 
+Безопастность
 ![Рисунок 3](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_3.jpg)  
 
+вебсайт с помощью бакета 
 ![Рисунок 4](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_4.jpg)  
 
+сама картинка 
 ![Рисунок 5](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_5.jpg)  
