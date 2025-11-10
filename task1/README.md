@@ -1,3 +1,5 @@
+Структура файлов
+
 ── bucket.tf  
 ├── files  
 │   ├── error.html  
@@ -19,22 +21,29 @@
 └── versions.tf  
 
 
-   Инициализация и применение
-
+Инициализация и применение
+```
 terraform init
 terraform validate
 terraform plan
 terraform apply -auto-approve
+```
 
 ## решение 1.1 бакет Object Storage
-в результаты работы кода терраформ создан бакет **yc-15-2-bucket-2025-11**
-корзина содержит файлы:
+В результаты работы кода терраформ создан бакет **yc-15-2-bucket-2025-11**
+Корзина содержит файлы:
 Страница ошибки ─ error.html  
 Главная страница ─ index.html  
-файлс с картинкой ─ netology.png  
+Файлс с картинкой ─ netology.png  
+Стринца бакета - https://yc-15-2-bucket-2025-11.website.yandexcloud.net/
+Ссылка на файл https://yc-15-2-bucket-2025-11.website.yandexcloud.net/netology.png
+
 ![Рисунок 1](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_1.jpg) 
 
 ![Рисунок 2](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_2.jpg)  
 
 ![Рисунок 3](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_3.jpg)  
 
+![Рисунок 4](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_4.jpg)  
+
+![Рисунок 5](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_5.jpg)  
