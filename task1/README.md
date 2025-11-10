@@ -22,6 +22,8 @@
 └── versions.tf  
 
 
+
+
 Инициализация и применение
 ```
 terraform init
@@ -69,5 +71,60 @@ terraform apply -auto-approve
 ![Рисунок 14](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_14.jpg)  
 ![Рисунок 15](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_15.jpg) 
 ![Рисунок 16](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_16.jpg) 
+
+Машины отвечают по очереди 
 ![Рисунок 17](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_17.jpg) 
 ![Рисунок 18](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_18.jpg) 
+![Рисунок 19](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_19.jpg) 
+
+Удалим две машины, но работспособность балансировщика поддерживаеться
+![Рисунок 20](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_20.jpg) 
+![Рисунок 21](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_21.jpg) 
+![Рисунок 22](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_22.jpg) 
+![Рисунок 23](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_23.jpg) 
+
+Машины создаються в замен удаленных
+![Рисунок 24](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_24.jpg) 
+![Рисунок 25](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_25.jpg) 
+![Рисунок 26](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_26.jpg)  
+![Рисунок 27](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_27.jpg) 
+![Рисунок 28](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_28.jpg) 
+![Рисунок 29](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_29.jpg)  
+
+машина в зоне d имеет другой адрес! по не понятной мне причине так и не поднялась допустимое время
+![Рисунок 30](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_30.jpg) 
+![Рисунок 31](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_31.jpg)
+
+повтороно удалим нужно , навреное ждать дольше 
+![Рисунок 32](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_32.jpg) 
+![Рисунок 33](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_33.jpg)
+![Рисунок 34](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_34.jpg)
+
+Удалим все машины
+![Рисунок 35](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_35.jpg)
+![Рисунок 36](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_36.jpg)
+![Рисунок 37](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_37.jpg)
+
+машина в зоне d также заново создаеться
+![Рисунок 38](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_38.jpg)
+
+Балансировщик понял что нет машин
+![Рисунок 39](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_39.jpg)
+н чего не востановилось, прошло 20 мин, удалим созданные объекты и оставимв не работоспособном состоянии одну машину
+
+перездали проет и удали машину в зоне d 
+![Рисунок 40](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_40.jpg)  
+![Рисунок 41](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_41.jpg)
+
+Балансировщик отдает контент с 2 из 3 машин
+![Рисунок 42](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_42.jpg)
+
+Создаеться третья машина в зоне d
+![Рисунок 43](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_43.jpg)
+![Рисунок 44](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_44.jpg)
+![Рисунок 45](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_45.jpg)
+
+соответвует списку машин 
+![Рисунок 46](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_46.jpg)  
+![Рисунок 47](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_47.jpg)  
+![Рисунок 48](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_48.jpg)  

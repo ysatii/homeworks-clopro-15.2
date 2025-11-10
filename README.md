@@ -38,6 +38,10 @@
 - [Группа ВМ с сетевым балансировщиком](https://cloud.yandex.ru/docs/compute/operations/instance-groups/create-with-balancer).
 
 ---
+решение доступно по ссылке 
+[решение 1](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/task1/README.md)
+
+
 ## Задание 2*. AWS (задание со звёздочкой)
 
 Это необязательное задание. Его выполнение не влияет на получение зачёта по домашней работе.
