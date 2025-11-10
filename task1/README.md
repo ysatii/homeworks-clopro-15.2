@@ -53,7 +53,7 @@ terraform apply -auto-approve
 сама картинка 
 ![Рисунок 5](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_5.jpg)  
 
-## решение 1.2 Создать группу ВМ в public подсети фиксированного размера с шаблоном LAMP и веб-страницей, содержащей ссылку на картинку из бакета
+## Решение 1.2 Создать группу ВМ в public подсети фиксированного размера с шаблоном LAMP и веб-страницей, содержащей ссылку на картинку из бакета
 ![Рисунок 6](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_6.jpg)  
 ![Рисунок 7](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_7.jpg)  
 ![Рисунок 8](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_8.jpg)  
@@ -64,3 +64,10 @@ terraform apply -auto-approve
 
 проверим ответы машин
 ![Рисунок 13](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_13.jpg)  
+
+## Решение 1.3 Подключить группу к сетевому балансировщику
+![Рисунок 14](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_14.jpg)  
+![Рисунок 15](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_15.jpg) 
+![Рисунок 16](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_16.jpg) 
+![Рисунок 17](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_17.jpg) 
+![Рисунок 18](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_18.jpg) 
