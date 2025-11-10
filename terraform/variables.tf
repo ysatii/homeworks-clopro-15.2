@@ -14,20 +14,12 @@ variable "subnet-1-name" {
   default = "public"
 }
 
-variable "subnet-2-private-a" {
-  default = "private-a"
-}
-
 variable "subnet-2-private-b" {
   default = "private-b"
 }
 
 variable "subnet-2-private-d" {
   default = "private-d"
-}
-
-variable "subnet-2-private-k" {
-  default = "private-k"
 }
 
 variable "token" {
@@ -52,20 +44,4 @@ variable "bucket_name" {
 variable "zone" {
   default = "ru-central1-a"
 }
-
  
-
-variable "vm2_image" {
-  default = "fd80mrhj8fl2oe87o4e1"
-}
-
-
-
-variable "vm3_ip" {
-  default = "192.168.20.20"
-}
-
-variable "vm3_image" {
-  default = "fd80mrhj8fl2oe87o4e1"
-}
-
