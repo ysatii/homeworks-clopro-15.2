@@ -126,5 +126,11 @@ terraform apply -auto-approve
 
 соответвует списку машин 
 ![Рисунок 46](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_46.jpg)  
+
+Все машины в трех зонах востановлены
 ![Рисунок 47](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_47.jpg)  
 ![Рисунок 48](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_48.jpg)  
+![Рисунок 49](https://github.com/ysatii/homeworks-clopro-15.2/blob/main/img/img_49.jpg)  
+
+
+На основание вышечечисленных опытов можно сделать выод что безопастно может выйти из строя одна машина !
